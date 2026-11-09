@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Secrets (seul .env.example est versionné)
+.env
+
+# Notes personnelles
+docs/NOTES.md
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
